@@ -1,4 +1,4 @@
-# Spring Boot Scheduler
+# Spring Boot Task Scheduling
 
 In Spring Boot, the **@Scheduled** annotation is used to schedule tasks to run at fixed intervals or at a specified time. This feature is useful for automating periodic tasks like sending emails, cleaning up data, or fetching external resources at regular intervals.
 
